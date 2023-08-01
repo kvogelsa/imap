@@ -39,12 +39,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Ddeboer\\Imap\\": "src/"
+            "kvogelsa\\Imap\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ddeboer\\Imap\\Tests\\": "tests/"
+            "kvogelsa\\Imap\\Tests\\": "tests/"
         }
     }
 }
